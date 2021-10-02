@@ -10,7 +10,7 @@
   <img src="https://discord.c99.nl/widget/theme-5/857503732735672350.png"/>
 </p>
 <p align="center">
-Currently learning Python
+Making hacking tools/softwares
 <p align="center">
     <a href="https://discord.gg/RXtVveQf56">Discord Server</a>
 
