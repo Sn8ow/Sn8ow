@@ -4,7 +4,7 @@
 <p align="center">
     Sn8ow | avoidsn8ow | MIMI
 <p align="center">  
-<img src="https://komarev.com/ghpvc/?username=Sn8ow&color=grey">
+<img src="https://komarev.com/ghpvc/?username=sn8ow&color=grey">
 </p>
     <p align="center">
   <img src="https://discord.c99.nl/widget/theme-5/857503732735672350.png"/>
